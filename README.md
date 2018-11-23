@@ -100,3 +100,4 @@ Docs
 [systrace]: https://developer.android.com/studio/command-line/systrace.html
 [chrome-tracing]: https://www.chromium.org/developers/how-tos/trace-event-profiling-tool
 [protobuf]: https://developers.google.com/protocol-buffers/
+# platform_external_perfetto
